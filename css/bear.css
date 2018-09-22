@@ -22,8 +22,9 @@ html {
     }
 }    
 
-@media screen and (min-width: 406px min-width: 1170px) {
-    #mokey {
+@media screen and (min-width: 406px) and (min-width: 1170px) {
+    #monkey {
       left: 800px;
     }
 }    
+
