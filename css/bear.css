@@ -16,8 +16,9 @@ html {
     }
 }    
 
-@media screen and (min-width: 1196px) {
-    #bear {
-      left: 800px;
+@media screen and (max-width: 1196px) {
+    #ostrich {
+      top: 100px;
     }
 }    
+
