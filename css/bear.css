@@ -16,7 +16,7 @@ html {
     }
 }    
 
-@media screen and (max-width: 100px) {
+@media screen and (max-width: 50px) {
     #ostrich {
       top: 200px;
     }
